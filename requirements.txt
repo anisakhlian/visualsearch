@@ -3,3 +3,8 @@ pandas
 jupyter
 Pillow
 matplotlib
+tensorflow
+keras
+sklearn
+seaborn
+
